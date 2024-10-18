@@ -1,0 +1,14 @@
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\bin\Debug\net8.0\Searchingelement.exe
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\bin\Debug\net8.0\Searchingelement.deps.json
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\bin\Debug\net8.0\Searchingelement.runtimeconfig.json
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\bin\Debug\net8.0\Searchingelement.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\bin\Debug\net8.0\Searchingelement.pdb
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\Searchingelement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\Searchingelement.AssemblyInfoInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\Searchingelement.AssemblyInfo.cs
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\Searchingelement.csproj.CoreCompileInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\Searchingelement.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\refint\Searchingelement.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\Searchingelement.pdb
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\Searchingelement.genruntimeconfig.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\Searchingelement\Searchingelement\obj\Debug\net8.0\ref\Searchingelement.dll

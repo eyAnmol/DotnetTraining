@@ -1,0 +1,4 @@
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\SortingApp\SortingApp\obj\Debug\net8.0\SortingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\SortingApp\SortingApp\obj\Debug\net8.0\SortingApp.AssemblyInfoInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\SortingApp\SortingApp\obj\Debug\net8.0\SortingApp.AssemblyInfo.cs
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\SortingApp\SortingApp\obj\Debug\net8.0\SortingApp.csproj.CoreCompileInputs.cache

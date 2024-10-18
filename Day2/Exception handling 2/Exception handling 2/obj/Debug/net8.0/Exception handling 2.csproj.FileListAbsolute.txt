@@ -1,0 +1,14 @@
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\bin\Debug\net8.0\Exception handling 2.exe
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\bin\Debug\net8.0\Exception handling 2.deps.json
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\bin\Debug\net8.0\Exception handling 2.runtimeconfig.json
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\bin\Debug\net8.0\Exception handling 2.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\bin\Debug\net8.0\Exception handling 2.pdb
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\Exception handling 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\Exception handling 2.AssemblyInfoInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\Exception handling 2.AssemblyInfo.cs
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\Exception handling 2.csproj.CoreCompileInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\Exception handling 2.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\refint\Exception handling 2.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\Exception handling 2.pdb
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\Exception handling 2.genruntimeconfig.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\Exception handling 2\Exception handling 2\obj\Debug\net8.0\ref\Exception handling 2.dll

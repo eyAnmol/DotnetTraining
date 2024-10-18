@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Exception handling 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BF0F3BF-17A9-4AE8-8D63-50FF9A54138C}|Exception handling 2\\Exception handling 2.csproj|c:\\users\\hm542wv\\onedrive - ey\\desktop\\dotnettraining2\\day2\\exception handling 2\\exception handling 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BF0F3BF-17A9-4AE8-8D63-50FF9A54138C}|Exception handling 2\\Exception handling 2.csproj|solutionrelative:exception handling 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Exception handling 2\\Exception handling 2\\Program.cs",
+              "RelativeDocumentMoniker": "Exception handling 2\\Program.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Exception handling 2\\Exception handling 2\\Program.cs",
+              "RelativeToolTip": "Exception handling 2\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T18:21:43.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

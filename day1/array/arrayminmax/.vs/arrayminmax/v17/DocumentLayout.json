@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\day1\\array\\arrayminmax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0883FF5D-5DC3-4346-8953-C92691AA25A3}|arrayminmax\\arrayminmax.csproj|c:\\users\\hm542wv\\onedrive - ey\\desktop\\dotnettraining2\\day1\\array\\arrayminmax\\arrayminmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0883FF5D-5DC3-4346-8953-C92691AA25A3}|arrayminmax\\arrayminmax.csproj|solutionrelative:arrayminmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\day1\\array\\arrayminmax\\arrayminmax\\Program.cs",
+              "RelativeDocumentMoniker": "arrayminmax\\Program.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\day1\\array\\arrayminmax\\arrayminmax\\Program.cs",
+              "RelativeToolTip": "arrayminmax\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:48:27.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

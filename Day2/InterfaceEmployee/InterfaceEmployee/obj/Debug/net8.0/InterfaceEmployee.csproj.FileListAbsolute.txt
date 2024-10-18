@@ -1,0 +1,14 @@
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\bin\Debug\net8.0\InterfaceEmployee.exe
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\bin\Debug\net8.0\InterfaceEmployee.deps.json
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\bin\Debug\net8.0\InterfaceEmployee.runtimeconfig.json
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\bin\Debug\net8.0\InterfaceEmployee.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\bin\Debug\net8.0\InterfaceEmployee.pdb
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\InterfaceEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\InterfaceEmployee.AssemblyInfoInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\InterfaceEmployee.AssemblyInfo.cs
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\InterfaceEmployee.csproj.CoreCompileInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\InterfaceEmployee.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\refint\InterfaceEmployee.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\InterfaceEmployee.pdb
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\InterfaceEmployee.genruntimeconfig.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\Day2\InterfaceEmployee\InterfaceEmployee\obj\Debug\net8.0\ref\InterfaceEmployee.dll

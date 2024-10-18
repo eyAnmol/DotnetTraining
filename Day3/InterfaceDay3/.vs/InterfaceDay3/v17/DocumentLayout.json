@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|c:\\users\\hm542wv\\source\\repos\\interfaceday3\\interfaceday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|solutionrelative:interfaceday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|c:\\users\\hm542wv\\source\\repos\\interfaceday3\\interfaceday3\\washingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|solutionrelative:interfaceday3\\washingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|c:\\users\\hm542wv\\source\\repos\\interfaceday3\\interfaceday3\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|solutionrelative:interfaceday3\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|c:\\users\\hm542wv\\source\\repos\\interfaceday3\\interfaceday3\\appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|solutionrelative:interfaceday3\\appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|c:\\users\\hm542wv\\source\\repos\\interfaceday3\\interfaceday3\\iappliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|solutionrelative:interfaceday3\\iappliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|c:\\users\\hm542wv\\source\\repos\\interfaceday3\\interfaceday3\\ironbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|solutionrelative:interfaceday3\\ironbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|c:\\users\\hm542wv\\source\\repos\\interfaceday3\\interfaceday3\\dishwasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910E852A-C391-4799-B522-4643528BD748}|InterfaceDay3\\InterfaceDay3.csproj|solutionrelative:interfaceday3\\dishwasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appliance.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\Appliance.cs",
+              "RelativeDocumentMoniker": "InterfaceDay3\\Appliance.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\Appliance.cs",
+              "RelativeToolTip": "InterfaceDay3\\Appliance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:16:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dishwasher.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\Dishwasher.cs",
+              "RelativeDocumentMoniker": "InterfaceDay3\\Dishwasher.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\Dishwasher.cs",
+              "RelativeToolTip": "InterfaceDay3\\Dishwasher.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:57:10.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Refrigerator.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\Refrigerator.cs",
+              "RelativeDocumentMoniker": "InterfaceDay3\\Refrigerator.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\Refrigerator.cs",
+              "RelativeToolTip": "InterfaceDay3\\Refrigerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:11:48.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAppliance.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\IAppliance.cs",
+              "RelativeDocumentMoniker": "InterfaceDay3\\IAppliance.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\IAppliance.cs",
+              "RelativeToolTip": "InterfaceDay3\\IAppliance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:08:12.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WashingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\WashingMachine.cs",
+              "RelativeDocumentMoniker": "InterfaceDay3\\WashingMachine.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\WashingMachine.cs",
+              "RelativeToolTip": "InterfaceDay3\\WashingMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:00:43.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceDay3\\Program.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\Program.cs",
+              "RelativeToolTip": "InterfaceDay3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:47:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IronBox.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\IronBox.cs",
+              "RelativeDocumentMoniker": "InterfaceDay3\\IronBox.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\source\\repos\\InterfaceDay3\\InterfaceDay3\\IronBox.cs",
+              "RelativeToolTip": "InterfaceDay3\\IronBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:09:52.551Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

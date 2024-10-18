@@ -4,11 +4,11 @@
 *.user
 *.userprefs
 *.sln.ide
- 
+
 # Ignore build outputs
 bin/
 obj/
- 
+
 # Ignore logs and temporary files
 *.log
 *.tmp

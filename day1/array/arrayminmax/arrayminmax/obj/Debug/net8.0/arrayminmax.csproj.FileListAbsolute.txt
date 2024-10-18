@@ -1,0 +1,14 @@
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\bin\Debug\net8.0\arrayminmax.exe
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\bin\Debug\net8.0\arrayminmax.deps.json
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\bin\Debug\net8.0\arrayminmax.runtimeconfig.json
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\bin\Debug\net8.0\arrayminmax.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\bin\Debug\net8.0\arrayminmax.pdb
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\arrayminmax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\arrayminmax.AssemblyInfoInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\arrayminmax.AssemblyInfo.cs
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\arrayminmax.csproj.CoreCompileInputs.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\arrayminmax.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\refint\arrayminmax.dll
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\arrayminmax.pdb
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\arrayminmax.genruntimeconfig.cache
+C:\Users\HM542WV\OneDrive - EY\Desktop\DotnetTraining2\day1\array\arrayminmax\arrayminmax\obj\Debug\net8.0\ref\arrayminmax.dll

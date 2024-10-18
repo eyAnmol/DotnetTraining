@@ -1,0 +1,14 @@
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\bin\Debug\net8.0\InterfaceDay3.exe
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\bin\Debug\net8.0\InterfaceDay3.deps.json
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\bin\Debug\net8.0\InterfaceDay3.runtimeconfig.json
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\bin\Debug\net8.0\InterfaceDay3.dll
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\bin\Debug\net8.0\InterfaceDay3.pdb
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\InterfaceDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\InterfaceDay3.AssemblyInfoInputs.cache
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\InterfaceDay3.AssemblyInfo.cs
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\InterfaceDay3.csproj.CoreCompileInputs.cache
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\InterfaceDay3.dll
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\refint\InterfaceDay3.dll
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\InterfaceDay3.pdb
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\InterfaceDay3.genruntimeconfig.cache
+C:\Users\HM542WV\source\repos\InterfaceDay3\InterfaceDay3\obj\Debug\net8.0\ref\InterfaceDay3.dll

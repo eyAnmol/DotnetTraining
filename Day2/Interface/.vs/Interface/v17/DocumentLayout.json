@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7C5538-48BC-4268-910E-B9A1CD26F00A}|Interfaceshape\\Interfaceshape.csproj|c:\\users\\hm542wv\\onedrive - ey\\desktop\\dotnettraining2\\day2\\interface\\interfaceshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7C5538-48BC-4268-910E-B9A1CD26F00A}|Interfaceshape\\Interfaceshape.csproj|solutionrelative:interfaceshape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7C5538-48BC-4268-910E-B9A1CD26F00A}|Interfaceshape\\Interfaceshape.csproj|c:\\users\\hm542wv\\onedrive - ey\\desktop\\dotnettraining2\\day2\\interface\\interfaceshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7C5538-48BC-4268-910E-B9A1CD26F00A}|Interfaceshape\\Interfaceshape.csproj|solutionrelative:interfaceshape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7C5538-48BC-4268-910E-B9A1CD26F00A}|Interfaceshape\\Interfaceshape.csproj|c:\\users\\hm542wv\\onedrive - ey\\desktop\\dotnettraining2\\day2\\interface\\interfaceshape\\ishapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7C5538-48BC-4268-910E-B9A1CD26F00A}|Interfaceshape\\Interfaceshape.csproj|solutionrelative:interfaceshape\\ishapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7C5538-48BC-4268-910E-B9A1CD26F00A}|Interfaceshape\\Interfaceshape.csproj|c:\\users\\hm542wv\\onedrive - ey\\desktop\\dotnettraining2\\day2\\interface\\interfaceshape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB7C5538-48BC-4268-910E-B9A1CD26F00A}|Interfaceshape\\Interfaceshape.csproj|solutionrelative:interfaceshape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\Interfaceshape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Interfaceshape\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\Interfaceshape\\Rectangle.cs",
+              "RelativeToolTip": "Interfaceshape\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:49:13.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\Interfaceshape\\Circle.cs",
+              "RelativeDocumentMoniker": "Interfaceshape\\Circle.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\Interfaceshape\\Circle.cs",
+              "RelativeToolTip": "Interfaceshape\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:47:26.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IShapes.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\Interfaceshape\\IShapes.cs",
+              "RelativeDocumentMoniker": "Interfaceshape\\IShapes.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\Interfaceshape\\IShapes.cs",
+              "RelativeToolTip": "Interfaceshape\\IShapes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:43:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\Interfaceshape\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaceshape\\Program.cs",
+              "ToolTip": "C:\\Users\\HM542WV\\OneDrive - EY\\Desktop\\DotnetTraining2\\Day2\\Interface\\Interfaceshape\\Program.cs",
+              "RelativeToolTip": "Interfaceshape\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:42:55.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
